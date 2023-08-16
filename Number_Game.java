@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 // Define the main class
-public class NumberGame {
+public class Number_Game {
 
     // Define the main method
     public static void main(String[] args) {
